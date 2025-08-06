@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "GitToBronze",
+				"name": "GitToBronzes",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
